@@ -9,3 +9,5 @@ Program created autoencoder networks to read screen & predict likely action type
 Program created small  networks for each test case, so testing could be lightweight, trained quickly, & easily specialized.
 
 Program was able to automate several small tests that I had normally done manually.
+
+NOTE: none of the datasets were stored on GitHub
